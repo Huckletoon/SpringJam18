@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "Splash",
     "id": "80eb26ff-cc81-4172-8578-4786516e0edb",
     "creationCodeFile": "",
     "inheritCode": false,
