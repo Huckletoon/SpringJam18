@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0c016cda-fd46-47c8-b419-d2243ceca479",
+            "Value": {
+                "id": "e84f408d-c281-494a-9600-ec3dbb9e073d",
+                "resourcePath": "sprites\\spr_tallCrate\\spr_tallCrate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18fc7ac3-317a-499d-bd83-20bd9eb47c83",
             "Value": {
                 "id": "73b4a732-e6d5-4278-acbc-e2b7444fe687",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "61c5c9d5-dfff-4bde-863f-284dce032765",
+            "Value": {
+                "id": "37a314ec-d5c8-4137-9372-1026cd7682a3",
+                "resourcePath": "sprites\\spr_butchAttack\\spr_butchAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "628dc37f-4195-42fd-a521-cea32893716b",
             "Value": {
                 "id": "d174e352-d0cb-461b-8a26-a98e45f9a1cf",
@@ -231,14 +247,6 @@
             }
         },
         {
-            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
-            "Value": {
-                "id": "1514d404-a1a9-4c55-88e6-6d726bfa21d1",
-                "resourcePath": "options\\ios\\options_ios.yy",
-                "resourceType": "GMiOSOptions"
-            }
-        },
-        {
             "Key": "859806eb-b8fa-4c59-8aec-ca161089823f",
             "Value": {
                 "id": "7d633498-329a-48c0-9729-726b3f31f699",
@@ -311,6 +319,14 @@
             }
         },
         {
+            "Key": "96830527-eafd-4cce-a052-c87b79166d3e",
+            "Value": {
+                "id": "d1a5cacd-5a86-464c-83b9-d37dcbd5428a",
+                "resourcePath": "sprites\\spr_butchWalk\\spr_butchWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "98ff41c6-0e4c-4495-8164-def06943e94c",
             "Value": {
                 "id": "3d721c51-7cb2-437b-85ca-3dc863c1b280",
@@ -348,14 +364,6 @@
                 "id": "3b31b48d-61de-43bf-8527-d271169b4997",
                 "resourcePath": "views\\9ea616e0-aea3-481b-9ed9-3f426be4f438.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
-            "Value": {
-                "id": "6ccdea49-5279-4078-bef9-201ae5e8b895",
-                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
-                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -399,6 +407,14 @@
             }
         },
         {
+            "Key": "cc57ab3e-8931-4468-a8c9-76ab45ae1298",
+            "Value": {
+                "id": "d9221944-67f0-45e2-b5d3-62f030c778be",
+                "resourcePath": "rooms\\rm_test1\\rm_test1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "cc6e8e96-202a-42cf-9316-9acc131e0341",
             "Value": {
                 "id": "b025960c-008f-4db4-b5b0-28917162c013",
@@ -423,6 +439,14 @@
             }
         },
         {
+            "Key": "d38987fb-47f9-4247-b9de-31f1589cda75",
+            "Value": {
+                "id": "69905dce-6ca5-4631-82d7-84fd6c12c175",
+                "resourcePath": "objects\\obj_tallCrate\\obj_tallCrate.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e2f3e0aa-fba9-4ec3-96ab-3c4421b1e31e",
             "Value": {
                 "id": "1736bd10-1738-42d5-b757-dbe8ec4385c5",
@@ -436,14 +460,6 @@
                 "id": "a12b40f2-1b8b-455f-b70a-51bcb64bfbfc",
                 "resourcePath": "sounds\\Death\\Death.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
-            "Value": {
-                "id": "ea72d2fc-25cd-456e-b56a-541c59fb0f25",
-                "resourcePath": "options\\android\\options_android.yy",
-                "resourceType": "GMAndroidOptions"
             }
         },
         {
