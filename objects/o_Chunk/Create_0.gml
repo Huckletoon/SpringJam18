@@ -1,3 +1,3 @@
  /// @description 
 // You can write your code in this editor
-MakeChunk(irandom(6), x, y);
+MakeChunk(0, self.x, self.y);

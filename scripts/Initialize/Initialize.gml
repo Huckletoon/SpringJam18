@@ -6,7 +6,7 @@
 global.ChunkWidth = 1024;
 global.Chunks = [];
 global.startX = 31;
-global.startY = 735;
+global.startY = 700;
 global.alertMax = room_width / 2;
 global.alertMin = room_width * 1.5;
 global.player = instance_create_depth(-100,-100, 0, obj_crate);
