@@ -45,7 +45,33 @@ if(!alive){
 	y = obj_enemy.y + 20
 }	
 
+//if pChoice == brad
+/*
+if(hsp > 0){
+image_xscale = 1
+sprite_index = spr_bradRun
+}
+if(hsp == 0){
+sprite_index = spr_bradIdle
+}
+if(hsp < 0){
+image_xscale = -1
+sprite_index = spr_bradRun
+}
+*/
 
+//if pChoice == britney
+if(hsp > 0){
+image_xscale = 1
+sprite_index = spr_britneyRun
+}
+if(hsp == 0){
+sprite_index = spr_britneyIdle
+}
+if(hsp < 0){
+image_xscale = -1
+sprite_index = spr_britneyRun
+}
 
 if (x > global.Chunks[0].x + global.ChunkWidth * 1)
 { ChunkCycle(); }
