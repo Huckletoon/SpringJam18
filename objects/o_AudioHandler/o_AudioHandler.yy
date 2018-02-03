@@ -1,19 +1,10 @@
 {
-    "id": "91d742c8-6a31-48af-8ba9-46701283167a",
+    "id": "90bfa5d4-5fae-4896-8887-e8073a5fd24e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_Chunk",
+    "name": "o_AudioHandler",
     "eventList": [
-        {
-            "id": "56392f10-2172-439b-ba2c-cc7f5b58003b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "91d742c8-6a31-48af-8ba9-46701283167a"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -44,3 +44,8 @@ if(!alive){
 	x = obj_enemy.x + 28
 	y = obj_enemy.y + 20
 }	
+
+
+
+if (x > global.Chunks[0].x + global.ChunkWidth * 1)
+{ ChunkCycle(); }
