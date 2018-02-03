@@ -5,4 +5,4 @@
 // TODO: design a default starting level design
 global.ChunkWidth = 1024;
 global.Chunks = [];
-for (var x = 0; x < 10; x++) { global.Chunks[x] = noone; }
+for (var i = 0; i < 10; i++) { global.Chunks[i] = noone; }
