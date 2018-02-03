@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "69802e81-0330-419e-848d-99feef130efd",
+            "Value": {
+                "id": "645686d8-b3b0-4457-913a-58a0f4f88314",
+                "resourcePath": "sprites\\spr_enemyPH\\spr_enemyPH.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6fbde931-3b91-4171-aa76-2ff691f5ebdb",
             "Value": {
                 "id": "ab90428e-af47-41ed-b0f3-e426ee9a833d",
@@ -252,6 +260,14 @@
                 "id": "ceb4b838-6a3d-4024-a400-36f9955b7f76",
                 "resourcePath": "scripts\\ChunkCycle\\ChunkCycle.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ff90d882-3f85-48f8-86d4-4f39b9d06c7b",
+            "Value": {
+                "id": "a9f81874-ec08-490f-9e20-a50021f8c194",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
