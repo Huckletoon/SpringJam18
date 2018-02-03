@@ -10,3 +10,6 @@ vsp = 0
 
 //speed
 runSpd = 8
+
+//alive until dead
+alive = true
