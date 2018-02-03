@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "6f7f8c18-b344-4970-b250-1777b408cb22",
+            "Value": {
+                "id": "75ee8321-3909-4d0d-9523-6e6a915f635d",
+                "resourcePath": "sounds\\Alert\\Alert.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6fbde931-3b91-4171-aa76-2ff691f5ebdb",
             "Value": {
                 "id": "ab90428e-af47-41ed-b0f3-e426ee9a833d",
@@ -103,6 +111,14 @@
             }
         },
         {
+            "Key": "9122e9c8-5940-476b-a7ff-391e33639dfe",
+            "Value": {
+                "id": "56ef2017-0989-40a2-89e8-cd45ab0f5853",
+                "resourcePath": "sounds\\Death\\Death.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "91d742c8-6a31-48af-8ba9-46701283167a",
             "Value": {
                 "id": "f4508ddf-7a50-4044-8f64-8dfbc8a972ab",
@@ -140,6 +156,14 @@
                 "id": "3b31b48d-61de-43bf-8527-d271169b4997",
                 "resourcePath": "views\\9ea616e0-aea3-481b-9ed9-3f426be4f438.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a0f58a27-cd6a-4dfc-82bb-9b7cd0480e70",
+            "Value": {
+                "id": "d83bdabe-200d-40e1-a0f7-78a1ab016f87",
+                "resourcePath": "sounds\\AmbientIntro\\AmbientIntro.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -236,6 +260,14 @@
                 "id": "ceb4b838-6a3d-4024-a400-36f9955b7f76",
                 "resourcePath": "scripts\\ChunkCycle\\ChunkCycle.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "fc80200e-6781-4f96-af0f-fc64992159f2",
+            "Value": {
+                "id": "33a1a0ca-297b-4089-ba16-32f66f2e9f53",
+                "resourcePath": "sounds\\AmbientLoop\\AmbientLoop.yy",
+                "resourceType": "GMSound"
             }
         }
     ],
