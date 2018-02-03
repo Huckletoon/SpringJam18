@@ -103,11 +103,11 @@
             }
         },
         {
-            "Key": "69802e81-0330-419e-848d-99feef130efd",
+            "Key": "6f7f8c18-b344-4970-b250-1777b408cb22",
             "Value": {
-                "id": "645686d8-b3b0-4457-913a-58a0f4f88314",
-                "resourcePath": "sprites\\spr_enemyPH\\spr_enemyPH.yy",
-                "resourceType": "GMSprite"
+                "id": "75ee8321-3909-4d0d-9523-6e6a915f635d",
+                "resourcePath": "sounds\\Alert\\Alert.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -143,11 +143,35 @@
             }
         },
         {
+            "Key": "69802e81-0330-419e-848d-99feef130efd",
+            "Value": {
+                "id": "645686d8-b3b0-4457-913a-58a0f4f88314",
+                "resourcePath": "sprites\\spr_enemyPH\\spr_enemyPH.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "d3b4f746-e662-40d0-a46c-8149bc030473",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "859806eb-b8fa-4c59-8aec-ca161089823f",
             "Value": {
                 "id": "7d633498-329a-48c0-9729-726b3f31f699",
                 "resourcePath": "views\\859806eb-b8fa-4c59-8aec-ca161089823f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9122e9c8-5940-476b-a7ff-391e33639dfe",
+            "Value": {
+                "id": "56ef2017-0989-40a2-89e8-cd45ab0f5853",
+                "resourcePath": "sounds\\Death\\Death.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -199,6 +223,22 @@
             }
         },
         {
+            "Key": "a0f58a27-cd6a-4dfc-82bb-9b7cd0480e70",
+            "Value": {
+                "id": "d83bdabe-200d-40e1-a0f7-78a1ab016f87",
+                "resourcePath": "sounds\\AmbientIntro\\AmbientIntro.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "8f198786-84c6-4819-afe2-d3ddd98dd17f",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "ea44088b-22a8-423c-839c-aa3b1b18ff7d",
@@ -247,6 +287,14 @@
             }
         },
         {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "ddb4c0e0-17d1-401d-9829-3de9079246d9",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
             "Key": "e9588d9b-a56e-4612-ae6f-0916c65a7e3d",
             "Value": {
                 "id": "6a3da9bd-ab7c-42ef-92ce-8b5eb551b0b7",
@@ -284,6 +332,14 @@
                 "id": "a9f81874-ec08-490f-9e20-a50021f8c194",
                 "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fc80200e-6781-4f96-af0f-fc64992159f2",
+            "Value": {
+                "id": "33a1a0ca-297b-4089-ba16-32f66f2e9f53",
+                "resourcePath": "sounds\\AmbientLoop\\AmbientLoop.yy",
+                "resourceType": "GMSound"
             }
         }
     ],
