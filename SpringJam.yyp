@@ -127,6 +127,22 @@
             }
         },
         {
+            "Key": "45b5bf05-60fb-4eda-9e96-8ee67584ffa8",
+            "Value": {
+                "id": "cf7390cc-4706-4d06-8a57-13ab9fe4e91c",
+                "resourcePath": "rooms\\rm_howToPlay\\rm_howToPlay.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "628dc37f-4195-42fd-a521-cea32893716b",
+            "Value": {
+                "id": "d174e352-d0cb-461b-8a26-a98e45f9a1cf",
+                "resourcePath": "views\\628dc37f-4195-42fd-a521-cea32893716b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "67462f7c-2f62-4b9c-8d50-e822fae39b94",
             "Value": {
                 "id": "1cfcb78f-592b-41fe-9680-2d17461874af",
@@ -143,6 +159,14 @@
             }
         },
         {
+            "Key": "6a9c7b68-9bea-4c90-8f6c-3626a468b9ad",
+            "Value": {
+                "id": "239a4140-a872-4bd3-8fc0-f596fe7fd782",
+                "resourcePath": "objects\\obj_howToPlayButton\\obj_howToPlayButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6efa661b-29ed-48ca-9b57-37498c786d25",
             "Value": {
                 "id": "83e9b6cc-cd07-4524-a6c5-6ee208d957e5",
@@ -156,6 +180,14 @@
                 "id": "ab90428e-af47-41ed-b0f3-e426ee9a833d",
                 "resourcePath": "views\\6fbde931-3b91-4171-aa76-2ff691f5ebdb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "70eaa9d3-40ce-4082-b24e-c89a4c68facb",
+            "Value": {
+                "id": "811230d8-d72e-4f5f-a2d6-ff3ac07b2a51",
+                "resourcePath": "sprites\\spr_startButton\\spr_startButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -183,6 +215,30 @@
             }
         },
         {
+            "Key": "8f92018a-ec4c-4f02-8579-678d2bb1389a",
+            "Value": {
+                "id": "13061524-cf57-4e61-ac21-eb985b51d63b",
+                "resourcePath": "objects\\obj_startButton\\obj_startButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8fd71892-2c0e-4352-bb46-5fec0ce96eab",
+            "Value": {
+                "id": "c00bc940-aff8-460c-9b8b-a400d1acedb4",
+                "resourcePath": "sprites\\spr_insrtuctionsButton\\spr_insrtuctionsButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "90b5613c-bc17-4bbd-a47e-4e806f6b7758",
+            "Value": {
+                "id": "329a9e53-0b57-49b4-b556-286e67c9d86d",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "91d742c8-6a31-48af-8ba9-46701283167a",
             "Value": {
                 "id": "f4508ddf-7a50-4044-8f64-8dfbc8a972ab",
@@ -196,6 +252,14 @@
                 "id": "ee63bab8-1d8e-411c-a817-674678cedc3e",
                 "resourcePath": "views\\96685edb-c984-4c13-8295-edab86c40726.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "98ff41c6-0e4c-4495-8164-def06943e94c",
+            "Value": {
+                "id": "3d721c51-7cb2-437b-85ca-3dc863c1b280",
+                "resourcePath": "sprites\\spr_quitButton\\spr_quitButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -268,6 +332,14 @@
                 "id": "9545af45-9efa-4f4b-b3e7-10352807969e",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0a901cc-3a26-4621-a6c3-3d9ca32cd1ba",
+            "Value": {
+                "id": "eb8dd7ee-383c-4dc5-8024-ee6159e06156",
+                "resourcePath": "objects\\obj_exitButton\\obj_exitButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
