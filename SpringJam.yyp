@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "3b680716-07e1-4d12-8789-ee59128bc674",
+            "Value": {
+                "id": "009d0407-2c84-4253-95f6-33127373ed79",
+                "resourcePath": "sprites\\spr_debrisPiecesWood\\spr_debrisPiecesWood.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3d1febeb-df8b-491f-a68c-20ceb1aa8492",
             "Value": {
                 "id": "f1096ce8-b48f-4b66-9430-0b513048fab8",
@@ -212,6 +220,14 @@
                 "id": "7d633498-329a-48c0-9729-726b3f31f699",
                 "resourcePath": "views\\859806eb-b8fa-4c59-8aec-ca161089823f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "89d0d876-39a6-4338-9a9a-73c1ccd6fa65",
+            "Value": {
+                "id": "65d4e8d4-00d8-4b2a-89be-50ec1e5c5f87",
+                "resourcePath": "objects\\obj_debrisPiece\\obj_debrisPiece.yy",
+                "resourceType": "GMObject"
             }
         },
         {
