@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "91d742c8-6a31-48af-8ba9-46701283167a",
+            "Value": {
+                "id": "f4508ddf-7a50-4044-8f64-8dfbc8a972ab",
+                "resourcePath": "objects\\o_Chunk\\o_Chunk.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "96685edb-c984-4c13-8295-edab86c40726",
             "Value": {
                 "id": "ee63bab8-1d8e-411c-a817-674678cedc3e",
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "e9588d9b-a56e-4612-ae6f-0916c65a7e3d",
+            "Value": {
+                "id": "6a3da9bd-ab7c-42ef-92ce-8b5eb551b0b7",
+                "resourcePath": "scripts\\Initialize\\Initialize.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "0cd8fb2d-4cd8-417a-95f2-650dcd69b41e",
@@ -213,10 +229,19 @@
                 "resourcePath": "views\\fa05ffcd-25a5-4c3c-8805-966b84ccee2f.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "faf785d1-dd36-4de0-8dde-d34f9af74816",
+            "Value": {
+                "id": "ceb4b838-6a3d-4024-a400-36f9955b7f76",
+                "resourcePath": "scripts\\ChunkCycle\\ChunkCycle.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
-        
+        "faf785d1-dd36-4de0-8dde-d34f9af74816",
+        "e9588d9b-a56e-4612-ae6f-0916c65a7e3d"
     ],
     "tutorial": ""
 }
