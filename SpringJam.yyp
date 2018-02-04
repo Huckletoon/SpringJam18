@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "1f7b69a6-0cdb-4094-9662-fc3dda4e7fb2",
+            "Value": {
+                "id": "3787a744-6234-4910-8100-22458c978332",
+                "resourcePath": "sprites\\spr_bradButton\\spr_bradButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "24034e5b-b926-4f9a-8624-80fea36d39c1",
             "Value": {
                 "id": "7d56b8fc-3f35-45c0-b36f-d741c6dc7f5c",
@@ -132,6 +140,14 @@
                 "id": "d01b1507-5213-4301-bb3b-5fdf63b5c3ad",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2739c752-e66f-492f-8a97-dcaad2140dad",
+            "Value": {
+                "id": "ca38493c-6362-4621-b4a1-daa5d606c218",
+                "resourcePath": "sprites\\spr_startButton\\spr_startButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,6 +319,14 @@
             }
         },
         {
+            "Key": "5bcebf3e-7d19-4e56-bf19-41f70d55f9ef",
+            "Value": {
+                "id": "6f0d2b94-9356-4943-9026-f734787af4c0",
+                "resourcePath": "sprites\\spr_britneyButton\\spr_britneyButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "61c5c9d5-dfff-4bde-863f-284dce032765",
             "Value": {
                 "id": "37a314ec-d5c8-4137-9372-1026cd7682a3",
@@ -380,14 +404,6 @@
                 "id": "ab90428e-af47-41ed-b0f3-e426ee9a833d",
                 "resourcePath": "views\\6fbde931-3b91-4171-aa76-2ff691f5ebdb.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "70eaa9d3-40ce-4082-b24e-c89a4c68facb",
-            "Value": {
-                "id": "811230d8-d72e-4f5f-a2d6-ff3ac07b2a51",
-                "resourcePath": "sprites\\spr_startButton\\spr_startButton.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -515,6 +531,14 @@
             "Value": {
                 "id": "0a2cb4c6-5da7-4f29-8007-e15664fcc1e0",
                 "resourcePath": "sprites\\spr_moon\\spr_moon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "94917e03-bfb0-4dd1-bf3b-41ea393a7876",
+            "Value": {
+                "id": "da576c5b-ac43-4b71-a1b2-9bc2c130ed1e",
+                "resourcePath": "sprites\\spr_startScreen\\spr_startScreen.yy",
                 "resourceType": "GMSprite"
             }
         },
