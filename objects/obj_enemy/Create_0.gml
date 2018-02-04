@@ -15,3 +15,12 @@ runSpd = 8
 image_speed = .4
 
 alarm[0] = 360
+
+//pick a killah!
+killahNum = irandom_range(1,2)
+if(killahNum == 1){
+	sprite_index = spr_butchWalk
+}
+if(killahNum == 2){
+	sprite_index = spr_spikeWalk
+}

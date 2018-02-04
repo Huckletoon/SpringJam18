@@ -11,8 +11,11 @@ var move = key_right - key_left
 hsp = move * runSpd
 vsp = vsp + grv
 
+round(vsp)
+
 //make sure player is considered alive before any movement takes place
 if(alive){
+	
 	
 	//increment global survival time
 	global.survivalTime ++
@@ -40,6 +43,18 @@ if(alive){
 		vsp = 0;
 	}
 	y = y + vsp
+	
+	//make the player have a bit of dust come off them
+	if(y < 607 && y > 581){
+		instance_create_depth(x,y+60,0,obj_miniDustCloudLeft)
+		instance_create_depth(x,y+60,0,obj_miniDustCloudRight)
+	}
+	if((key_left == true || key_right == true) && y > 600){
+		makeDust = irandom_range(1,18)
+		if(makeDust == 5){
+			instance_create_depth(x,y+48,0,obj_runningDust)
+		}
+	}
 	
 	if (global.playerChoice == "brad"){
 		if(hsp > 0){

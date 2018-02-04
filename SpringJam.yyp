@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "3ed2f63a-a9e5-4007-9dd9-ac72b555cfcb",
+            "Value": {
+                "id": "ba8df3b9-a27f-48d6-b4c5-06e929640aed",
+                "resourcePath": "sounds\\clickSound\\clickSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4578e723-86ea-4104-b151-b087837cf0c7",
             "Value": {
                 "id": "dfe8a272-c40e-4a0b-98d2-91f65041ab74",
@@ -300,6 +308,14 @@
                 "id": "d174e352-d0cb-461b-8a26-a98e45f9a1cf",
                 "resourcePath": "views\\628dc37f-4195-42fd-a521-cea32893716b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "64650fa2-436b-49cd-a80e-93e10861f655",
+            "Value": {
+                "id": "62e78dcc-b636-42ba-917c-6f3d3dde1a04",
+                "resourcePath": "objects\\obj_miniDustCloudLeft\\obj_miniDustCloudLeft.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -396,14 +412,6 @@
                 "id": "17b35a08-698f-4f63-9454-fc2833f10831",
                 "resourcePath": "rooms\\Splash\\Splash.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
-            "Value": {
-                "id": "225baabf-d024-482a-8fe4-6003f82d12cd",
-                "resourcePath": "options\\ios\\options_ios.yy",
-                "resourceType": "GMiOSOptions"
             }
         },
         {
@@ -583,14 +591,6 @@
             }
         },
         {
-            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
-            "Value": {
-                "id": "59129df4-3007-426f-87ec-c1c6a177a31c",
-                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
-                "resourceType": "GMAmazonFireOptions"
-            }
-        },
-        {
             "Key": "a5b62b40-0dbc-4009-b152-1a9f964d2d69",
             "Value": {
                 "id": "c5909deb-b509-4d20-bf7d-cca6ae9e0ab0",
@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "ac34f3d9-5ca2-415d-be20-ad24d3856670",
+            "Value": {
+                "id": "65c6d766-7d56-4427-896d-bac1b59f0f90",
+                "resourcePath": "sprites\\spr_spikeAttack\\spr_spikeAttack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b49f3035-1342-4083-81bd-d8d32495d288",
             "Value": {
                 "id": "100261a6-cd13-48c4-9473-9ef7091d2301",
@@ -644,6 +652,14 @@
                 "id": "4cc6ab0e-1125-48f6-b8ee-0abf82a64eac",
                 "resourcePath": "sprites\\spr_mt3\\spr_mt3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b963b8df-63c1-40ac-b59c-a8d4ef03334e",
+            "Value": {
+                "id": "3803ca0f-05a7-49a3-8195-7b53137713b8",
+                "resourcePath": "objects\\obj_miniDustCloudRight\\obj_miniDustCloudRight.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -692,6 +708,14 @@
                 "id": "8b88c96d-4211-4d73-868f-c8de357b318a",
                 "resourcePath": "sounds\\BradDeathSound\\BradDeathSound.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c783e99b-859f-4465-b155-e369f10c8ea5",
+            "Value": {
+                "id": "dd9e715c-31bd-43a9-accc-b8f2f87bee5b",
+                "resourcePath": "sprites\\spr_spikeWalk\\spr_spikeWalk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -751,6 +775,14 @@
             }
         },
         {
+            "Key": "da630a24-0cae-4ce0-b74f-31b5c2a48e3d",
+            "Value": {
+                "id": "8435e463-a6ab-41ee-af4c-bb71ca967893",
+                "resourcePath": "objects\\obj_runningDust\\obj_runningDust.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e2f3e0aa-fba9-4ec3-96ab-3c4421b1e31e",
             "Value": {
                 "id": "1736bd10-1738-42d5-b757-dbe8ec4385c5",
@@ -764,14 +796,6 @@
                 "id": "a12b40f2-1b8b-455f-b70a-51bcb64bfbfc",
                 "resourcePath": "sounds\\Death\\Death.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
-            "Value": {
-                "id": "9d7c3128-5931-4700-8da6-b6d63c95c2bc",
-                "resourcePath": "options\\android\\options_android.yy",
-                "resourceType": "GMAndroidOptions"
             }
         },
         {

@@ -27,11 +27,17 @@ x = x + hsp
 
 //when to kill the player
 if(x + 32 > obj_player.x){
-obj_player.alive = false
-hsp = 0
-sprite_index = spr_butchAttack
-image_speed = .4
-instance_create_depth(x,y,-1000,obj_fadeToBlack)
+	obj_player.alive = false
+	hsp = 0
+	if(killahNum == 1){
+		sprite_index = spr_butchAttack
+		image_speed = .4
+	}
+	if(killahNum == 2){
+		sprite_index = spr_spikeAttack
+		image_speed = .4
+	}
+	instance_create_depth(x,y,-1000,obj_fadeToBlack)
 }
 
 
