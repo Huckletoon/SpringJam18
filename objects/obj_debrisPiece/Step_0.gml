@@ -5,4 +5,4 @@ x = x + hsp
 y = y + vsp
 image_angle += rotation
 
-if (y > 1200) {instance_destroy()}
+if (y > 750) {instance_destroy()}

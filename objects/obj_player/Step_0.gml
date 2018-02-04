@@ -5,8 +5,12 @@ key_left = keyboard_check(ord("A"))
 key_right = keyboard_check(ord ("D"))
 key_up = keyboard_check(ord("W"))
 
+aKey_up = keyboard_check(vk_up)
+aKey_left = keyboard_check(vk_left)
+aKey_right = keyboard_check(vk_right)
+
 //calc movement
-var move = key_right - key_left
+var move = key_right - key_left + aKey_right - aKey_left
 
 hsp = move * runSpd
 vsp = vsp + grv
@@ -21,7 +25,7 @@ if(alive){
 	global.survivalTime ++
 	
 	//Jumping
-	if(place_meeting(x,y + 1,obj_wall) && key_up){
+	if(place_meeting(x,y + 1,obj_wall) && (key_up || aKey_up)){
 		vsp = -25	
 	}
 
@@ -49,7 +53,7 @@ if(alive){
 		instance_create_depth(x,y+60,0,obj_miniDustCloudLeft)
 		instance_create_depth(x,y+60,0,obj_miniDustCloudRight)
 	}
-	if((key_left == true || key_right == true) && y > 600){
+	if((key_left == true || key_right == true || aKey_left == true || aKey_right == true) && y > 600){
 		makeDust = irandom_range(1,18)
 		if(makeDust == 5){
 			instance_create_depth(x,y+48,0,obj_runningDust)

@@ -863,6 +863,14 @@
             }
         },
         {
+            "Key": "eb600fe3-daf1-4ffb-afa7-79f3c4fd3ee4",
+            "Value": {
+                "id": "d2099e8a-c3c5-41aa-81b1-7127888c5795",
+                "resourcePath": "sounds\\britneyScream\\britneyScream.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "0cd8fb2d-4cd8-417a-95f2-650dcd69b41e",

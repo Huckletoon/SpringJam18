@@ -10,3 +10,6 @@ alarm[1] = 240
 if(global.playerChoice == "brad"){
 	audio_play_sound(BradDeathSound, 10, false)
 }
+if(global.playerChoice == "britney"){
+	audio_play_sound(britneyScream, 10, false)
+}
