@@ -37,47 +37,55 @@ if(alive){
 		vsp = 0;
 	}
 	y = y + vsp
+	
+	if (global.playerChoice == "brad"){
+		if(hsp > 0){
+				image_xscale = 1
+				sprite_index = spr_bradRun
+		}
+		if(hsp == 0){
+			sprite_index = spr_bradIdle
+		}
+		if(hsp < 0){
+			image_xscale = -1
+			sprite_index = spr_bradRun
+		}
+		if(!vsp == 0){
+			sprite_index = spr_bradFall
+		}
+	}
+
+	if (global.playerChoice == "britney"){
+		if(hsp > 0){
+			image_xscale = 1
+			sprite_index = spr_britneyRun
+		}
+		if(hsp == 0){
+			sprite_index = spr_britneyIdle
+		}
+		if(hsp < 0){
+			image_xscale = -1
+			sprite_index = spr_britneyRun
+		}
+		if(!vsp == 0){
+			sprite_index = spr_britneyFall
+		}
+	}
 }
 
 //move player to slashers position when they are caught
 if(!alive){
+	image_xscale = 1
 	y = obj_enemy.y + 20
 	x = obj_enemy.x + 64
 	if(global.playerChoice == "britney"){
-		sprite_index = spr_britneyDead
+		sprite_index = spr_britneyDie
 	}
 	if(global.playerChoice == "brad"){
-		sprite_index = spr_britneyDead
+		sprite_index = spr_bradDie
 	}
 }	
 
-if (global.playerChoice == "brad"){
-	if(hsp > 0){
-		image_xscale = 1
-		sprite_index = spr_bradRun
-	}
-	if(hsp == 0){
-		sprite_index = spr_bradIdle
-	}
-	if(hsp < 0){
-		image_xscale = -1
-		sprite_index = spr_bradRun
-	}
-}
-
-if (global.playerChoice == "britney"){
-	if(hsp > 0){
-		image_xscale = 1
-		sprite_index = spr_britneyRun
-	}
-	if(hsp == 0){
-		sprite_index = spr_britneyIdle
-	}
-	if(hsp < 0){
-		image_xscale = -1
-		sprite_index = spr_britneyRun
-	}
-}
 
 if (x > global.Chunks[0].x + global.ChunkWidth * 1)
 { ChunkCycle(); }
