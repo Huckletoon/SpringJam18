@@ -6,7 +6,9 @@
     "children": [
         "70eaa9d3-40ce-4082-b24e-c89a4c68facb",
         "98ff41c6-0e4c-4495-8164-def06943e94c",
-        "8fd71892-2c0e-4352-bb46-5fec0ce96eab"
+        "8fd71892-2c0e-4352-bb46-5fec0ce96eab",
+        "7705c968-bcaf-430e-ab9a-f4efff28d67b",
+        "7774a7aa-766d-4775-8f89-a9084f763e73"
     ],
     "filterType": "GMSprite",
     "folderName": "buttons",

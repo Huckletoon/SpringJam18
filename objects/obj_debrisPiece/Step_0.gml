@@ -5,7 +5,4 @@ x = x + hsp
 y = y + vsp
 image_angle += rotation
 
-if(y > 1500){
-	instance_deactivate_object(self)
-}
-
+if (y > 1200) {instance_destroy()}

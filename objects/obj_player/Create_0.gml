@@ -13,3 +13,4 @@ runSpd = 8
 
 //alive until dead
 alive = true
+
