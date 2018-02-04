@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1872a578-8bc6-41b1-a6d6-f524677be974",
+            "Value": {
+                "id": "606eee6a-6b13-4a56-ba36-f1001b5c4825",
+                "resourcePath": "sprites\\spr_creditsScreen\\spr_creditsScreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18fc7ac3-317a-499d-bd83-20bd9eb47c83",
             "Value": {
                 "id": "73b4a732-e6d5-4278-acbc-e2b7444fe687",
@@ -423,6 +431,14 @@
             }
         },
         {
+            "Key": "86a95af8-54ca-4c6a-bd8c-516a5cc6697a",
+            "Value": {
+                "id": "6ffddefe-6b01-4740-9b09-629e84fdd784",
+                "resourcePath": "sprites\\spr_chooseCharacterScreen\\spr_chooseCharacterScreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "89d0d876-39a6-4338-9a9a-73c1ccd6fa65",
             "Value": {
                 "id": "65d4e8d4-00d8-4b2a-89be-50ec1e5c5f87",
@@ -655,6 +671,14 @@
             }
         },
         {
+            "Key": "b876fb19-3d63-42e8-aab6-23f302bfe66e",
+            "Value": {
+                "id": "da83fb8a-ba86-4d32-9e58-720f63d27f35",
+                "resourcePath": "rooms\\rm_characterChoose\\rm_characterChoose.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b963b8df-63c1-40ac-b59c-a8d4ef03334e",
             "Value": {
                 "id": "3803ca0f-05a7-49a3-8195-7b53137713b8",
@@ -823,6 +847,14 @@
             }
         },
         {
+            "Key": "f4520969-e672-4131-828d-e5aa2ceab1e3",
+            "Value": {
+                "id": "1c1b50dc-897a-427d-b7f8-45b387e900cf",
+                "resourcePath": "sprites\\spr_howToPlayScreen\\spr_howToPlayScreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f57eee9f-4773-4e09-829c-255e72599693",
             "Value": {
                 "id": "970bcefe-c832-4f88-ba68-67cd83a8a2bb",
@@ -836,6 +868,14 @@
                 "id": "9a8e274e-6ffd-4dcd-bb24-c6d701705d3b",
                 "resourcePath": "views\\fa05ffcd-25a5-4c3c-8805-966b84ccee2f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fa4143ed-35d5-4070-baa4-0b46fa8f1aa0",
+            "Value": {
+                "id": "d2379651-430c-47f3-8291-02a7325d727d",
+                "resourcePath": "objects\\obj_playButton\\obj_playButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {

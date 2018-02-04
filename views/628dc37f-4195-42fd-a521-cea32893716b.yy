@@ -10,7 +10,8 @@
         "c05b25b3-fcdb-41a9-8d66-d9cb34fce9e8",
         "ac00496c-6b86-4320-9061-a3631a1bbb40",
         "989a0bf7-a785-4547-b0d7-a21d569030a6",
-        "362006ef-7886-4d92-8b98-f6adcaa767ea"
+        "362006ef-7886-4d92-8b98-f6adcaa767ea",
+        "fa4143ed-35d5-4070-baa4-0b46fa8f1aa0"
     ],
     "filterType": "GMObject",
     "folderName": "button objects",
