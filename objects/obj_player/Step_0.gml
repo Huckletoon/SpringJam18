@@ -14,6 +14,9 @@ vsp = vsp + grv
 //make sure player is considered alive before any movement takes place
 if(alive){
 	
+	//increment global survival time
+	global.survivalTime ++
+	
 	//Jumping
 	if(place_meeting(x,y + 1,obj_wall) && key_up){
 		vsp = -25	
@@ -77,7 +80,7 @@ if(alive){
 if(!alive){
 	image_xscale = 1
 	y = obj_enemy.y + 20
-	x = obj_enemy.x + 64
+	x = obj_enemy.x + 54
 	if(global.playerChoice == "britney"){
 		sprite_index = spr_britneyDie
 	}

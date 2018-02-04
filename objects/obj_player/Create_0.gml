@@ -14,3 +14,5 @@ runSpd = 8
 //alive until dead
 alive = true
 
+global.survivalTime = 0
+

@@ -33,3 +33,16 @@ sprite_index = spr_butchAttack
 image_speed = .4
 instance_create_depth(x,y,-1000,obj_fadeToBlack)
 }
+
+
+if(obj_player.x - x > 600){
+	instance_create_depth(0,0,0,obj_enemyDistInticator)
+}
+if(object_exists(obj_enemyDistInticator) && obj_player.x - x < 600){
+	instance_destroy(obj_enemyDistInticator)
+}
+
+//stop moving after you killed them, they're dead what are you still chasing?!
+if(obj_player.alive == false){
+	hsp = 0
+}
