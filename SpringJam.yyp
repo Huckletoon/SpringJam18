@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "05aa407e-8333-4841-abe0-ea1cf2beec5c",
+            "Value": {
+                "id": "1b81d28b-4947-493f-9311-b16399100e58",
+                "resourcePath": "sprites\\spr_backButton\\spr_backButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "075c7a16-839f-408c-bfc4-b21a648a4a34",
             "Value": {
                 "id": "b84724ed-2df8-41f5-b7f9-833f35c4a5d4",
@@ -127,6 +135,14 @@
             }
         },
         {
+            "Key": "2d1fa913-6c8f-455a-8ad6-9d4442386772",
+            "Value": {
+                "id": "002c1c1d-8154-4152-b7d0-93cbb149806e",
+                "resourcePath": "rooms\\rm_credits\\rm_credits.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2d84c55e-64aa-4316-97ce-ef9a0640042c",
             "Value": {
                 "id": "94fb15e9-55a8-41a4-a217-923e3b9ca6a4",
@@ -147,6 +163,22 @@
             "Value": {
                 "id": "f9ac8af7-7ea4-4a62-bed1-01b343e56f81",
                 "resourcePath": "sprites\\spr_wallPH\\spr_wallPH.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "362006ef-7886-4d92-8b98-f6adcaa767ea",
+            "Value": {
+                "id": "604a3916-70a1-4084-b34f-1821e239373f",
+                "resourcePath": "objects\\obj_backButton\\obj_backButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3824722a-7c59-4cb0-9165-9fd2930e1e84",
+            "Value": {
+                "id": "d726e94a-8c6c-4ebb-b8c8-18397b8f161d",
+                "resourcePath": "sprites\\spr_creditsButton\\spr_creditsButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -420,6 +452,14 @@
                 "id": "d1a5cacd-5a86-464c-83b9-d37dcbd5428a",
                 "resourcePath": "sprites\\spr_butchWalk\\spr_butchWalk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "989a0bf7-a785-4547-b0d7-a21d569030a6",
+            "Value": {
+                "id": "605d93d5-1ed9-4447-a2f3-61428d9016a7",
+                "resourcePath": "objects\\obj_creditsButton\\obj_creditsButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
