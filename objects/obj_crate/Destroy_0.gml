@@ -9,4 +9,12 @@ while(i < howMany){
 	i++
 }
 		
+for (var n = 0; n < instance_number(o_scaffold); n++)
+{
+	var temp = instance_find(o_scaffold, n);
+	if (x == temp.x)
+	{
+		instance_destroy(temp)
+	}
+}
 instance_create_depth(x,y,-1,obj_dustCloud)
