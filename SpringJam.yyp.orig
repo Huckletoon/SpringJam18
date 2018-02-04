@@ -1079,19 +1079,19 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "eb600fe3-daf1-4ffb-afa7-79f3c4fd3ee4",
             "Value": {
                 "id": "d2099e8a-c3c5-41aa-81b1-7127888c5795",
                 "resourcePath": "sounds\\britneyScream\\britneyScream.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
+=======
             "Key": "efa2a735-7d51-48c0-9d83-bb0f1baac971",
             "Value": {
                 "id": "0a38bbf3-e1e7-43c8-8d44-59e7186b5156",
                 "resourcePath": "sprites\\blood01111111\\blood01111111.yy",
                 "resourceType": "GMSprite"
+>>>>>>> master
             }
         },
         {

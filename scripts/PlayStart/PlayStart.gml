@@ -4,9 +4,9 @@ audio_stop_sound(AmbientIntro);
 global.AudioHandler = instance_create_depth(0, 0, 0, o_AudioHandler);
 global.currentAudio = 1;
 instance_create_depth(0,0,0, obj_backgroundMover)
-global.floor0 = layer_tilemap_create(layer_get_id("Tiles"), 0, global.startY + 92, tile_floors, 8, 1)
-global.floor1 = layer_tilemap_create(layer_get_id("Tiles"), global.startX, global.startY +92, tile_floors, 8, 1)
-global.floor2 = layer_tilemap_create(layer_get_id("Tiles"), global.startX * 2, global.startY +92, tile_floors, 8, 1)
+global.floor0 = layer_tilemap_create(layer_get_id("Tiles_1"), 0, global.startY + 92, tile_floors, 8, 1)
+global.floor1 = layer_tilemap_create(layer_get_id("Tiles_1"), global.startX, global.startY +92, tile_floors, 8, 1)
+global.floor2 = layer_tilemap_create(layer_get_id("Tiles_1"), global.startX * 2, global.startY +92, tile_floors, 8, 1)
 var tiles0 = []
 var tiles1 = []
 var tiles2 = []
