@@ -4,7 +4,7 @@
 grv = 1.4
 
 //horizontal speed
-hsp = 1
+hsp = 4
 //vertical speed
 vsp = 0
 

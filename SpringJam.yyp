@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "3dcce3d5-9b8b-4452-96b5-4b55579ed31b",
+            "Value": {
+                "id": "d2e20722-0baa-4184-b48b-419872f1723a",
+                "resourcePath": "objects\\obj_moon\\obj_moon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e0b0ff1-26d9-4526-9a00-9fda8bce644a",
             "Value": {
                 "id": "cdf47f9b-29d9-4250-b2f9-855b84e9bae5",
@@ -260,6 +268,14 @@
                 "id": "f5345009-d59c-4be9-b5be-4accc1180af8",
                 "resourcePath": "fonts\\fnt_spooks\\fnt_spooks.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "577d5b23-e9ba-4855-82a8-1bf30851b320",
+            "Value": {
+                "id": "6b07aff1-70c7-4cec-9928-c24801a17d06",
+                "resourcePath": "objects\\obj_dustCloud\\obj_dustCloud.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -463,6 +479,14 @@
             }
         },
         {
+            "Key": "939baab4-933d-4f08-ad7f-368b94517b47",
+            "Value": {
+                "id": "0a2cb4c6-5da7-4f29-8007-e15664fcc1e0",
+                "resourcePath": "sprites\\spr_moon\\spr_moon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "96685edb-c984-4c13-8295-edab86c40726",
             "Value": {
                 "id": "ee63bab8-1d8e-411c-a817-674678cedc3e",
@@ -644,6 +668,22 @@
                 "id": "02af63d2-20d4-44a4-8e0b-6efc2e55d559",
                 "resourcePath": "views\\c111cbb7-b4be-4627-9007-4cd491a30844.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5c3eaf3-27f6-46ef-898e-4c6bcff86cfc",
+            "Value": {
+                "id": "8b88c96d-4211-4d73-868f-c8de357b318a",
+                "resourcePath": "sounds\\BradDeathSound\\BradDeathSound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c85ea314-9995-4309-96ff-472d50633e4f",
+            "Value": {
+                "id": "56407f5a-7796-4a37-8a46-d92533bccbfb",
+                "resourcePath": "sprites\\spr_dust\\spr_dust.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
