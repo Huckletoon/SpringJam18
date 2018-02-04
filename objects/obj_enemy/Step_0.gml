@@ -26,9 +26,10 @@ if(x + 8 > obj_wall.x){
 x = x + hsp
 
 //when to kill the player
-if(x + 16 > obj_player.x){
+if(x + 32 > obj_player.x){
 obj_player.alive = false
-
-//stop moving forward after catching up with player
 hsp = 0
+sprite_index = spr_butchAttack
+image_speed = .4
+instance_create_depth(x,y,-1000,obj_fadeToBlack)
 }

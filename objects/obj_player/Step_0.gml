@@ -41,8 +41,8 @@ if(alive){
 
 //move player to slashers position when they are caught
 if(!alive){
-	x = obj_enemy.x + 28
 	y = obj_enemy.y + 20
+	x = obj_enemy.x + 64
 }	
 
 //if pChoice == brad
@@ -62,15 +62,15 @@ sprite_index = spr_bradRun
 
 //if pChoice == britney
 if(hsp > 0){
-image_xscale = 1
-sprite_index = spr_britneyRun
+	image_xscale = 1
+	sprite_index = spr_britneyRun
 }
 if(hsp == 0){
-sprite_index = spr_britneyIdle
+	sprite_index = spr_britneyIdle
 }
 if(hsp < 0){
-image_xscale = -1
-sprite_index = spr_britneyRun
+	image_xscale = -1
+	sprite_index = spr_britneyRun
 }
 
 if (x > global.Chunks[0].x + global.ChunkWidth * 1)
