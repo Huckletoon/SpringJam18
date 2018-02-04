@@ -383,6 +383,14 @@
             }
         },
         {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "225baabf-d024-482a-8fe4-6003f82d12cd",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "859806eb-b8fa-4c59-8aec-ca161089823f",
             "Value": {
                 "id": "7d633498-329a-48c0-9729-726b3f31f699",
@@ -551,6 +559,14 @@
             }
         },
         {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "59129df4-3007-426f-87ec-c1c6a177a31c",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
             "Key": "a5b62b40-0dbc-4009-b152-1a9f964d2d69",
             "Value": {
                 "id": "c5909deb-b509-4d20-bf7d-cca6ae9e0ab0",
@@ -708,6 +724,14 @@
                 "id": "a12b40f2-1b8b-455f-b70a-51bcb64bfbfc",
                 "resourcePath": "sounds\\Death\\Death.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "9d7c3128-5931-4700-8da6-b6d63c95c2bc",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
             }
         },
         {
