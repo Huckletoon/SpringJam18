@@ -87,5 +87,5 @@ if(!alive){
 }	
 
 
-if (x > global.Chunks[0].x + global.ChunkWidth * 1)
+if (x > global.Chunks[0].x + global.ChunkWidth / 2)
 { ChunkCycle(); }
