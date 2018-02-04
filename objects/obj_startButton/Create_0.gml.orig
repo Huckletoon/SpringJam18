@@ -1,0 +1,8 @@
+/// @description Insert description here
+global.playerChoice = "brad"
+<<<<<<< HEAD
+=======
+
+//true random
+randomize()
+>>>>>>> master

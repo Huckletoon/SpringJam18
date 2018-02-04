@@ -1,0 +1,8 @@
+ /// @description 
+// You can write your code in this editor
+<<<<<<< HEAD
+MakeChunk(irandom(9), self.x, self.y);
+map = irandom(2)
+=======
+MakeChunk(irandom(9), self.x, self.y);
+>>>>>>> master
