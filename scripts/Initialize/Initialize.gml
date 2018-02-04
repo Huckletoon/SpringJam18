@@ -5,7 +5,7 @@
 // TODO: design a default starting level design
 global.ChunkWidth = 1024;
 global.Chunks = [];
-global.startX = 1024;
+global.startX = 1024 - 32;
 global.startY = 672;
 global.alertMax = room_width;
 global.alertMin = room_width * 3;
